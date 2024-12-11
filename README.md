@@ -3,11 +3,11 @@ Hi there 👋
 I'm developing MYSELF
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/HYE77"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/HYE77"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
