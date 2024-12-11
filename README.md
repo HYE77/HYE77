@@ -2,13 +2,7 @@ Hi there 👋
 
 I'm developing MYSELF
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/HYE77"
-  width="900"
-  height="300"
-/>
-</a>
+
   
 <!--
 **HYE77/HYE77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/HYE77"
+  width="900"
+  height="300"
+/>
+</a>
