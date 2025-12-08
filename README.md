@@ -2,7 +2,11 @@
 
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
-under contruction ...
+
+- 2025.07 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Samsung Softward·AI Acamemy for Youth 14th (SSAFY)
+- 2019.03 - 2024.08 &nbsp; 성균관대학교 사회복지학과/데이터사이언스융합전공
+- 2022.08 - 2022.12 &nbsp; Exchange Student in The University of Oklahoma (OU) 
+- 2016.03 - 2019.03 &nbsp; 대일외국어고등학교 프랑스어과
 
 <br>
 
@@ -11,7 +15,11 @@ under contruction ...
 
 <!-- Certificates -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📜 Certificates </h2> <br> 
-under contruction ...
+<!-- - 정보처리기사 -->
+
+- SQL 개발자 (SQLd)
+- 데이터분석준전문가 (ADsP)
+- 컴퓨터활용능력 1급
 
 
 <br>
@@ -20,7 +28,7 @@ under contruction ...
 
 <!-- Tech Stack -->
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks & Tools </h2> <br> 
     <div align = 'center' style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
