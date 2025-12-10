@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&section=header" />
 
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
