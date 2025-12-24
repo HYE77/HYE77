@@ -15,8 +15,8 @@
 
 <!-- Certificates -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📜 Certificates </h2> <br> 
-<!-- - 정보처리기사 -->
 
+- 정보처리기사
 - SQL 개발자 (SQLd)
 - 데이터분석준전문가 (ADsP)
 - 컴퓨터활용능력 1급
