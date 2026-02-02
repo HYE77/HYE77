@@ -3,7 +3,7 @@
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
 
-- 2025.07 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Samsung Software·AI Acamemy for Youth 14th (SSAFY)
+- 2025.07 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Samsung Software·AI Acamemy for Youth 14th (SSAFY)
 - 2019.03 - 2024.08 &nbsp; 성균관대학교 사회복지학과/데이터사이언스융합전공
 - 2022.08 - 2022.12 &nbsp; Exchange Student in The University of Oklahoma (OU) 
 - 2016.03 - 2019.02 &nbsp; 대일외국어고등학교 프랑스어과
