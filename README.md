@@ -17,6 +17,7 @@
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Awards </h2> <br> 
 
 - 2026.03 매경미디어 x 앤스로픽 'News to Action' AI 해커톤 최우수상
+- 2026.03 삼성청년SW·AI아카데미 14기 특화 프로젝트 우수상
 
 <br>
 
