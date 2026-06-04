@@ -40,19 +40,7 @@
 
 <br>
 
-<!-- Projects 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎟️ Projects </h2> <br> 
 
-- 정보처리기사
-- 삼성 SW역량테스트 A+
-- SQL 개발자 (SQLd)
-- 데이터분석준전문가 (ADsP)
-- 컴퓨터활용능력 1급
-
-
-<br>
-
-<br>-->
 
 <!-- Tech Stack -->
 <div style="text-align: left;">
@@ -114,8 +102,79 @@
 <br>
 
 <br>
+
     
-<!-- project -->
+<!-- Projects -->
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎟️ Projects </h2> <br> 
+<h3>🧠 Synapse</h3>
+
+<p>
+<b>기간</b> 2026.02.23 ~ 2026.03.27 |
+<b>인원</b> 6명 |
+<b>역할</b> Backend
+</p>
+
+<h4>프로젝트 개요</h4>
+<p>
+개인 노트 데이터를 그래프로 시각화하고 AI 기반 인사이트를 제공하는 지식 관리 플랫폼
+</p>
+
+<h4>담당 역할</h4>
+<ul>
+  <li>Spring Boot 기반 API 서버 개발</li>
+  <li>Redis 캐싱 및 Kafka 이벤트 처리 구조 구현</li>
+  <li>FastAPI 연동을 통한 AI 추천 기능 개발</li>
+</ul>
+
+<hr>
+
+<h3>🐭 사보땃쥐</h3>
+
+<p>
+<b>기간</b> 2026.04.06 ~ 2026.05.26 |
+<b>인원</b> 6명 |
+<b>역할</b> Backend
+</p>
+
+<h4>프로젝트 개요</h4>
+<p>
+WebSocket 기반 실시간 멀티플레이어 파티 게임 서비스
+</p>
+
+<h4>담당 역할</h4>
+<ul>
+  <li>실시간 게임 진행 서버 개발</li>
+  <li>WebSocket 기반 상태 동기화 구현</li>
+  <li>Redis 기반 게임 상태 및 이벤트 관리</li>
+</ul>
+
+<hr>
+
+<h3>🤖 CS-AI</h3>
+
+<p>
+<b>기간</b> 2026.01.12 ~ 2026.02.09 |
+<b>인원</b> 6명 |
+<b>역할</b> Backend
+</p>
+
+<h4>프로젝트 개요</h4>
+<p>
+AI 면접 기능을 활용한 CS 모의면접 및 스터디 플랫폼
+</p>
+
+<h4>담당 역할</h4>
+<ul>
+  <li>Spring Boot 기반 API 서버 개발</li>
+  <li>FastAPI 연동 및 AI 결과 처리 기능 구현</li>
+  <li>SSE 기반 실시간 면접 진행 기능 개발</li>
+</ul>
+
+
+
+<br>
+
+<br>
 
 
 
