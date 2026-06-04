@@ -1,5 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=데이터의&nbsp;흐름을&nbsp;관리하는&nbsp;백엔드&nbsp;개발자,&nbsp;이혜림입니다.&fontSize=34" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=데이터의&nbsp;흐름을&nbsp;관리하는&nbsp;백엔드&nbsp;개발자,&nbsp;이혜림입니다.&fontSize=34" />-->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header"/>
+
+
+<h1 align="center">데이터의 흐름을 관리하는 백엔드 개발자 이혜림입니다.</h1> <br><br>
+
+    
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
 
@@ -209,7 +215,7 @@
 <div align='center'>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xbsosbz)](https://solved.ac/xbsosbz/)
-  <img src="http://mazandi.herokuapp.com/api?handle=xbsosbz&theme=warm"/>
+  <!--<img src="http://mazandi.herokuapp.com/api?handle=xbsosbz&theme=warm"/>-->
 
 </div>
 
