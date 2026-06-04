@@ -64,11 +64,14 @@
     <td style="padding: 12px; border: 1px solid #d8dee4;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white">
+        <!--<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white">-->
 </tr>
     <tr>
     <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Database</td>
     <td style="padding: 12px; border: 1px solid #d8dee4;">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
     </td>
 </tr>
@@ -78,14 +81,20 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&white">
+        <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka">
     </td>
 </tr>
     <tr>
     <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">AI / ML</td>
     <td style="padding: 12px; border: 1px solid #d8dee4;">
+        <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black">
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white">
      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
      <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
      <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
+        
 </tr>
 <tr>
     <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Collaboration / Tools</td>
@@ -93,6 +102,7 @@
     <img src="https://camo.githubusercontent.com/b2088b5413f5158633c5e2c8150be1990e27d5ec8c2fd5ad7e4fc307c9df563b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666c61742d737175617265266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" alt="Jira" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
     </td>
