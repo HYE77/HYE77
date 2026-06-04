@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=데이터의&nbsp;흐름을&nbsp;관리하는&nbsp;백엔드&nbsp;개발자,&nbsp;이혜림입니다.&fontSize=34" />
 
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
@@ -57,26 +57,48 @@
 <!-- Tech Stack -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks & Tools </h2> <br> 
-    <div align = 'center' style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> -->
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
-    </div>
+
+<table style="border-collapse: collapse; text-align: center;">
+<tr>
+    <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Language</td>
+    <td style="padding: 12px; border: 1px solid #d8dee4;">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+</tr>
+    <tr>
+    <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Database</td>
+    <td style="padding: 12px; border: 1px solid #d8dee4;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    </td>
+</tr>
+<tr>
+    <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Framework / ORM</td>
+    <td style="padding: 12px; border: 1px solid #d8dee4;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&white">
+    </td>
+</tr>
+    <tr>
+    <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">AI / ML</td>
+    <td style="padding: 12px; border: 1px solid #d8dee4;">
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
+     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
+     <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
+</tr>
+<tr>
+    <td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Collaboration / Tools</td>
+    <td style="padding: 12px; border: 1px solid #d8dee4;">
+    <img src="https://camo.githubusercontent.com/b2088b5413f5158633c5e2c8150be1990e27d5ec8c2fd5ad7e4fc307c9df563b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666c61742d737175617265266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" alt="Jira" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+    </td>
+</tr>
+</table>
+
 </div>
 
 <br>
