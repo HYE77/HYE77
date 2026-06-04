@@ -195,7 +195,8 @@
 
 
 <!-- Contact -->
-<div style="text-align: left;">
+
+<!--<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📞 Contact me </h2> 
 
 - email : sk071219@naver.com
@@ -208,7 +209,7 @@
 
   
   <br> 
-<div style="text-align: left;">  </div> 
+<div style="text-align: left;">  </div> -->
 
   
 <!-- 백준 티어 -->
