@@ -3,8 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header"/>
 
 
-<h1 align="center">데이터의 흐름을 관리하는 백엔드 개발자 이혜림입니다.</h1> <br><br>
+<h1 align="center">데이터의 흐름을 관리하는 백엔드 개발자 이혜림입니다.</h1> 
 
+<div align="center"> 📧 contact : sk071219@naver.com </div><br><br>
     
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
