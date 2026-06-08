@@ -113,7 +113,12 @@
     
 <!-- Projects -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎟️ Projects </h2> 
-<h3>🧠 Synapse</h3>
+
+<h3>
+  <a href="https://github.com/HYE77/Synapse">
+    🧠 Synapse
+  </a>
+</h3>
 <blockquote>개인 노트 데이터를 그래프로 시각화하고 AI 기반 인사이트를 제공하는 지식 관리 플랫폼</blockquote>
 
 <p>
@@ -131,7 +136,11 @@
 
 <hr>
 
-<h3>🐭 사보땃쥐</h3>
+<h3>
+  <a href="https://github.com/HYE77/sabottatge">
+    🐭 사보땃쥐
+  </a>
+</h3>
 <blockquote>WebSocket 기반 실시간 AI 프롬프트 멀티플레이어 파티 게임</blockquote>
 
 <p>
@@ -149,7 +158,11 @@
 
 <hr>
 
-<h3>🤖 CS-AI</h3>
+<h3>
+  <a href="https://github.com/HYE77/CS-AI">
+    🤖 CS-AI
+  </a>
+</h3>
 <blockquote>직무 면접 준비를 위한 AI 기반 CS 모의면접 스터디 플랫폼</blockquote>
 
 <p>
@@ -167,7 +180,11 @@
 
 <hr>
 
-<h3>📈 Stack & Stock</h3>
+<h3>
+  <a href="https://github.com/Stack-Stock">
+    📈 Stack & Stock
+  </a>
+</h3>
 <blockquote>실제 뉴스 데이터를 활용한 경제·투자 시뮬레이션 게임</blockquote>
 
 <p>
