@@ -10,7 +10,7 @@
 <!-- Education -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
 
-- 2025.07 - 2026.06 &nbsp; Samsung Software·AI Acamemy for Youth 14th (SSAFY)
+- 2025.07 - 2026.06 &nbsp; Samsung Software·AI Acamemy for Youth 14th (SSAFY) 최우수 수료
 - 2019.03 - 2024.08 &nbsp; 성균관대학교 사회복지학과/데이터사이언스융합전공 졸업
 - 2022.08 - 2022.12 &nbsp; Exchange Student in The University of Oklahoma (OU) 
 - 2016.03 - 2019.02 &nbsp; 대일외국어고등학교 프랑스어과 졸업
@@ -23,9 +23,12 @@
 <!-- Awards -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Awards </h2> <br> 
 
-- 2026.03 매경미디어 x 앤스로픽 'News to Action' AI 해커톤 최우수상
-- 2026.03 삼성청년SW·AI아카데미 14기 빅데이터 분산 특화 프로젝트 우수상
+- 2026.06 삼성청년SW·AI아카데미 고용노동부 장관상
 - 2026.05 삼성청년SW·AI아카데미 14기 자율 프로젝트 우수상
+- 2026.03 삼성청년SW·AI아카데미 14기 빅데이터 분산 특화 프로젝트 우수상
+- 2026.03 매경미디어 x 앤스로픽 'News to Action' AI 해커톤 최우수상
+
+
 
 <br>
 
