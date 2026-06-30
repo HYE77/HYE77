@@ -1,6 +1,6 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=데이터의&nbsp;흐름을&nbsp;관리하는&nbsp;백엔드&nbsp;개발자,&nbsp;이혜림입니다.&fontSize=34" />-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=160&section=header"/>
 
 
 <h1 align="center">데이터의 흐름을 관리하는 백엔드 개발자 이혜림입니다.</h1> 
