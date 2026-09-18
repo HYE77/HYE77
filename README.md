@@ -7,7 +7,7 @@
 
 <div align="center"> 📧 contact : sk071219@naver.com </div><br><br>
     
-<!-- Education -->
+<!-- Education 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
 
 - 2025.07 - 2026.06 &nbsp; Samsung Software·AI Acamemy for Youth 14th (SSAFY) 최우수 수료
@@ -18,7 +18,7 @@
 <br>
 
 <br>
-
+-->
 
 <!-- Awards -->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏆 Awards </h2> <br> 
